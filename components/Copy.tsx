@@ -11,7 +11,7 @@ export default function CopyHelper({ toCopy }: CopyProps) {
 
   return (
     <button
-      aria-label="justify"
+      aria-label="copy to clipboard"
       className="flex-start bg-gray-200"
       onClick={() => setCopied(toCopy)}
     >

@@ -22,7 +22,7 @@ export default function Home() {
                             View Components
                         </h2>
                         <p className="mt-5 text-xl text-gray-500">
-                            View a collection of c w-fullomponents including a coin-flip animation,
+                            View a collection of components including a coin-flip animation,
                             curved text, and a responsive marquee.
                         </p>
                     </div>

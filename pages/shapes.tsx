@@ -317,7 +317,7 @@ const Home: NextPage = () => {
             {/* FOOTER */}
             <footer className="mt-32 text-center text-black">
                 Made by{" "}
-                <a className="underline" href="https://github.com/Twonarly1/tailwindcss-shapes">
+                <a className="underline" href="https://github.com/beauhawkinson/tailwindcss-shapes">
                     Twonarly
                 </a>
                 <div className="text-[10px]"> not associated with tailwind labs.</div>
